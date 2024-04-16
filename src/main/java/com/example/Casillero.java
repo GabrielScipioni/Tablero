@@ -1,4 +1,4 @@
-package com.ecodeup.jdbc;
+package com.example;
 
 public class Casillero {
     private String nombre;
